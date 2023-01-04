@@ -8,8 +8,4 @@
 #### my first time
 ##### this is new
 ###### this last
-<!---
-gmjuna/gmjuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [Ghulam Juna.pdf](https://github.com/gmjuna/gmjuna/files/10334357/Ghulam.Juna.pdf)
